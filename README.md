@@ -1,2 +1,2 @@
 # DEMO
-DEMO project to test hypothesis - link to Travis CI and Heroko
+DEMO project to test hypothesis - using AWS Pipeline to test Ci/CD
