@@ -4,4 +4,4 @@ phases:
   build:
     commands:
       - npm install
-      - npm build -- --env ${CURRENT_ENVIRONMENT}
+      - npm build
